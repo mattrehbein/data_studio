@@ -1,0 +1,6 @@
+City,2016_Pop,2017_Pop,Pop_Change,Percent_Change,State,FIPS ,Name,2009,2010,2011,2012,2013,2014,2015,2016,2017,,Median Household Income (2016),% of State Median HH Income
+"San Antonio, Texas",1487738,1511946,24208,1.6,Texas,48029,"Bexar County, TX",6.7,7.3,7.2,6.3,5.8,4.7,3.8,3.7,3.5,,53170.0,0.939681529788099
+"Phoenix, Arizona",1602042,1626078,24036,1.5,Arizona,04013,"Maricopa County, AZ",9.1,9.5,8.6,7.3,6.6,5.8,5.1,4.6,4.2,,58742.0,1.09837138422991
+"Dallas, Texas",1322140,1341075,18935,1.4,Texas,48113,"Dallas County, TX",8.2,8.6,8.1,7.1,6.6,5.4,4.3,4.0,3.8,,54429.0,0.961932029054663
+"Fort Worth, Texas",855504,874168,18664,2.2,Texas,48439,"Tarrant County, TX",7.7,8.1,7.6,6.5,6.0,5.0,4.2,4.0,3.7,,61553.0,1.08783556898715
+"Los Angeles, California",3981116,3999759,18643,0.5,California,06037,"Los Angeles County, CA",11.6,12.5,12.2,10.9,9.8,8.3,6.6,5.3,4.7,,61308.0,0.905382854611238

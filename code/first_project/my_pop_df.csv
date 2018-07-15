@@ -1,0 +1,759 @@
+City,2016_Pop,2017_Pop,Pop_Change,Percent_Change,State
+"Frisco, Texas",163816,177286,13470,8.2,Texas
+"New Braunfels, Texas",73319,79152,5833,8.0,Texas
+"Pflugerville, Texas",59507,63359,3852,6.5,Texas
+"Ankeny, Iowa",58639,62416,3777,6.4,Iowa
+"Buckeye, Arizona",64639,68453,3814,5.9,Arizona
+"Georgetown, Texas",67068,70685,3617,5.4,Texas
+"Castle Rock town, Colorado",59255,62276,3021,5.1,Colorado
+"Franklin, Tennessee",74685,78321,3636,4.9,Tennessee
+"McKinney, Texas",172984,181330,8346,4.8,Texas
+"Meridian, Idaho",95436,99926,4490,4.7,Idaho
+"Flower Mound town, Texas",73503,76681,3178,4.3,Texas
+"Bend, Oregon",90615,94520,3905,4.3,Oregon
+"Cedar Park, Texas",72630,75704,3074,4.2,Texas
+"Doral, Florida",58680,61130,2450,4.2,Florida
+"Fort Myers, Florida",76741,79943,3202,4.2,Florida
+"Irvine, California",266385,277453,11068,4.2,California
+"Gilroy, California",55396,57664,2268,4.1,California
+"Mansfield, Texas",66271,68928,2657,4.0,Texas
+"Murfreesboro, Tennessee",131433,136372,4939,3.8,Tennessee
+"Lake Elsinore, California",64088,66411,2323,3.6,California
+"Henderson, Nevada",292005,302539,10534,3.6,Nevada
+"Grapevine, Texas",52104,53982,1878,3.6,Texas
+"Edinburg, Texas",87179,90280,3101,3.6,Texas
+"St. George, Utah",81631,84405,2774,3.4,Utah
+"Conroe, Texas",81630,84378,2748,3.4,Texas
+"Rocklin, California",62733,64838,2105,3.4,California
+"Mount Pleasant town, South Carolina",83856,86668,2812,3.4,South Carolina
+"South Jordan, Utah",68679,70954,2275,3.3,Utah
+"Lehi, Utah",60743,62712,1969,3.2,Utah
+"Bonita Springs, Florida",54366,56088,1722,3.2,Florida
+"Goodyear, Arizona",77411,79858,2447,3.2,Arizona
+"Auburn, Washington",78327,80776,2449,3.1,Washington
+"Redmond, Washington",62359,64291,1932,3.1,Washington
+"Pearland, Texas",116360,119940,3580,3.1,Texas
+"Caldwell, Idaho",53039,54660,1621,3.1,Idaho
+"Leesburg town, Virginia",52617,54215,1598,3.0,Virginia
+"Manteca, California",76935,79268,2333,3.0,California
+"Salt Lake City, Utah",194653,200544,5891,3.0,Utah
+"Eastvale, California",61369,63211,1842,3.0,California
+"Port St. Lucie, Florida",183837,189344,5507,3.0,Florida
+"Clovis, California",106550,109691,3141,2.9,California
+"Bradenton, Florida",54890,56508,1618,2.9,Florida
+"Nampa, Idaho",90917,93590,2673,2.9,Idaho
+"Parker town, Colorado",52657,54202,1545,2.9,Colorado
+"North Port, Florida",64439,66300,1861,2.9,Florida
+"Brentwood, California",60688,62433,1745,2.9,California
+"Richland, Washington",54690,56243,1553,2.8,Washington
+"Lakeville, Minnesota",62000,63748,1748,2.8,Minnesota
+"Atlanta, Georgia",472967,486290,13323,2.8,Georgia
+"Casa Grande, Arizona",53960,55477,1517,2.8,Arizona
+"Cape Coral, Florida",178379,183365,4986,2.8,Florida
+"Richardson, Texas",113608,116783,3175,2.8,Texas
+"Noblesville, Indiana",60215,61882,1667,2.8,Indiana
+"Broomfield, Colorado",66509,68341,1832,2.8,Colorado
+"League City, Texas",102093,104903,2810,2.8,Texas
+"Port Orange, Florida",61531,63203,1672,2.7,Florida
+"Tigard, Oregon",51768,53148,1380,2.7,Oregon
+"San Marcos, Texas",61458,63071,1613,2.6,Texas
+"Commerce City, Colorado",54497,55923,1426,2.6,Colorado
+"Concord, North Carolina",89720,92067,2347,2.6,North Carolina
+"Clarksville, Tennessee",149407,153205,3798,2.5,Tennessee
+"Kissimmee, Florida",69345,71104,1759,2.5,Florida
+"Chino, California",87599,89797,2198,2.5,California
+"Jurupa Valley, California",103440,106028,2588,2.5,California
+"Tampa, Florida",376047,385430,9383,2.5,Florida
+"Seattle, Washington",707255,724745,17490,2.5,Washington
+"Palm Coast, Florida",84446,86516,2070,2.5,Florida
+"Bellingham, Washington",86926,89045,2119,2.4,Washington
+"Peoria, Arizona",164205,168181,3976,2.4,Arizona
+"Menifee, California",88465,90595,2130,2.4,California
+"College Station, Texas",110908,113564,2656,2.4,Texas
+"Round Rock, Texas",120848,123678,2830,2.3,Texas
+"Waco, Texas",133321,136436,3115,2.3,Texas
+"Bowling Green, Kentucky",65539,67067,1528,2.3,Kentucky
+"Fayetteville, Arkansas",83327,85257,1930,2.3,Arkansas
+"Sparks, Nevada",98622,100888,2266,2.3,Nevada
+"Boynton Beach, Florida",75957,77702,1745,2.3,Florida
+"Chandler, Arizona",247838,253458,5620,2.3,Arizona
+"Bellevue, Washington",141249,144444,3195,2.3,Washington
+"Gilbert town, Arizona",237135,242354,5219,2.2,Arizona
+"Chino Hills, California",78652,80374,1722,2.2,California
+"Rogers, Arkansas",65011,66430,1419,2.2,Arkansas
+"Fort Worth, Texas",855504,874168,18664,2.2,Texas
+"Fishers, Indiana",89903,91832,1929,2.1,Indiana
+"Reno, Nevada",243698,248853,5155,2.1,Nevada
+"Cary town, North Carolina",162478,165904,3426,2.1,North Carolina
+"Dublin, California",59682,60939,1257,2.1,California
+"Pharr, Texas",77848,79487,1639,2.1,Texas
+"Temple, Texas",72967,74503,1536,2.1,Texas
+"Perris, California",76284,77879,1595,2.1,California
+"Spokane Valley, Washington",95851,97847,1996,2.1,Washington
+"Sioux Falls, South Dakota",173322,176888,3566,2.1,South Dakota
+"Salem, Oregon",166378,169798,3420,2.1,Oregon
+"Auburn, Alabama",62703,63973,1270,2.0,Alabama
+"Greeley, Colorado",103369,105448,2079,2.0,Colorado
+"Eugene, Oregon",165665,168916,3251,2.0,Oregon
+"Gastonia, North Carolina",75125,76593,1468,2.0,North Carolina
+"Coconut Creek, Florida",59845,61010,1165,1.9,Florida
+"Pasco, Washington",71619,73013,1394,1.9,Washington
+"Kingsport, Tennessee",52358,53374,1016,1.9,Tennessee
+"Blaine, Minnesota",63335,64557,1222,1.9,Minnesota
+"Greenville, South Carolina",66928,68219,1291,1.9,South Carolina
+"Marysville, Washington",67565,68864,1299,1.9,Washington
+"Rio Rancho, New Mexico",94346,96159,1813,1.9,New Mexico
+"Huntersville town, North Carolina",55155,56212,1057,1.9,North Carolina
+"Hillsboro, Oregon",104888,106894,2006,1.9,Oregon
+"Kennewick, Washington",80077,81607,1530,1.9,Washington
+"North Las Vegas, Nevada",238495,242975,4480,1.9,Nevada
+"Olympia, Washington",50660,51609,949,1.9,Washington
+"Iowa City, Iowa",74407,75798,1391,1.9,Iowa
+"Missoula, Montana",72003,73340,1337,1.9,Montana
+"Mesa, Arizona",487376,496401,9025,1.9,Arizona
+"Roseville, California",132873,135329,2456,1.8,California
+"Charlotte, North Carolina",843484,859035,15551,1.8,North Carolina
+"Lakeland, Florida",106100,108054,1954,1.8,Florida
+"Lodi, California",64695,65884,1189,1.8,California
+"Maple Grove, Minnesota",69784,71066,1282,1.8,Minnesota
+"Palm Bay, Florida",109650,111657,2007,1.8,Florida
+"Burlington, North Carolina",52123,53077,954,1.8,North Carolina
+"Carrollton, Texas",133321,135710,2389,1.8,Texas
+"Tracy, California",89290,90889,1599,1.8,California
+"Greenwood, Indiana",56368,57375,1007,1.8,Indiana
+"Columbus, Ohio",863741,879170,15429,1.8,Ohio
+"Rancho Cordova, California",72273,73563,1290,1.8,California
+"Idaho Falls, Idaho",60005,61076,1071,1.8,Idaho
+"Corvallis, Oregon",56945,57961,1016,1.8,Oregon
+"Chico, California",91658,93293,1635,1.8,California
+"Killeen, Texas",142960,145482,2522,1.8,Texas
+"Wilmington, North Carolina",116985,119045,2060,1.8,North Carolina
+"Hendersonville, Tennessee",56526,57517,991,1.8,Tennessee
+"Pittsburg, California",70900,72141,1241,1.8,California
+"Durham, North Carolina",263138,267743,4605,1.8,North Carolina
+"Frederick, Maryland",70180,71408,1228,1.7,Maryland
+"Vacaville, California",98313,100032,1719,1.7,California
+"Alexandria, Virginia",157288,160035,2747,1.7,Virginia
+"Southaven, Mississippi",53107,54031,924,1.7,Mississippi
+"Fort Collins, Colorado",162308,165080,2772,1.7,Colorado
+"Grand Junction, Colorado",61448,62475,1027,1.7,Colorado
+"Ontario, California",172955,175841,2886,1.7,California
+"Tulare, California",62808,63855,1047,1.7,California
+"Fargo, North Dakota",120356,122359,2003,1.7,North Dakota
+"Woodbury, Minnesota",68616,69756,1140,1.7,Minnesota
+"Athens-Clarke County unified government (balance), Georgia",123670,125691,2021,1.6,Georgia
+"San Antonio, Texas",1487738,1511946,24208,1.6,Texas
+"Minneapolis, Minnesota",415622,422331,6709,1.6,Minnesota
+"Lawrence, Kansas",95363,96892,1529,1.6,Kansas
+"Albany, Oregon",52660,53503,843,1.6,Oregon
+"Boca Raton, Florida",96607,98150,1543,1.6,Florida
+"Surprise, Arizona",131980,134085,2105,1.6,Arizona
+"Delray Beach, Florida",67670,68749,1079,1.6,Florida
+"Rockville, Maryland",67331,68401,1070,1.6,Maryland
+"Jonesboro, Arkansas",74683,75866,1183,1.6,Arkansas
+"Avondale, Arizona",82716,84025,1309,1.6,Arizona
+"West Des Moines, Iowa",64587,65608,1021,1.6,Iowa
+"Las Vegas, Nevada",631710,641676,9966,1.6,Nevada
+"Thornton, Colorado",134859,136978,2119,1.6,Colorado
+"Rochester, Minnesota",113964,115733,1769,1.6,Minnesota
+"Woodland, California",59102,60012,910,1.5,California
+"Tuscaloosa, Alabama",98767,100287,1520,1.5,Alabama
+"Longmont, Colorado",92917,94341,1424,1.5,Colorado
+"Springfield, Oregon",61417,62353,936,1.5,Oregon
+"Sammamish, Washington",63580,64548,968,1.5,Washington
+"Scottsdale, Arizona",246204,249950,3746,1.5,Arizona
+"Medford, Oregon",80557,81780,1223,1.5,Oregon
+"Springdale, Arkansas",78419,79599,1180,1.5,Arkansas
+"Davie town, Florida",103591,105149,1558,1.5,Florida
+"Colorado Springs, Colorado",457600,464474,6874,1.5,Colorado
+"Phoenix, Arizona",1602042,1626078,24036,1.5,Arizona
+"Indio, California",88468,89793,1325,1.5,California
+"Deltona, Florida",89410,90746,1336,1.5,Florida
+"Madera, California",64545,65508,963,1.5,California
+"Tacoma, Washington",210304,213418,3114,1.5,Washington
+"Carmel, Indiana",90861,92198,1337,1.5,Indiana
+"Miami, Florida",456632,463347,6715,1.5,Florida
+"Temecula, California",112673,114327,1654,1.5,California
+"Layton, Utah",75583,76691,1108,1.5,Utah
+"Visalia, California",131096,133010,1914,1.5,California
+"Laguna Niguel, California",65382,66334,952,1.5,California
+"St. Charles, Missouri",69327,70329,1002,1.4,Missouri
+"Melbourne, Florida",80844,82011,1167,1.4,Florida
+"Murrieta, California",111719,113326,1607,1.4,California
+"Palm Desert, California",52182,52932,750,1.4,California
+"Boise City, Idaho",223361,226570,3209,1.4,Idaho
+"Dallas, Texas",1322140,1341075,18935,1.4,Texas
+"Conway, Arkansas",64854,65782,928,1.4,Arkansas
+"Weymouth Town, Massachusetts",55865,56664,799,1.4,Massachusetts
+"Denver, Colorado",694777,704621,9844,1.4,Colorado
+"Sacramento, California",494894,501901,7007,1.4,California
+"Kansas City, Missouri",482118,488943,6825,1.4,Missouri
+"Lake Charles, Louisiana",76044,77117,1073,1.4,Louisiana
+"Redwood City, California",85479,86685,1206,1.4,California
+"Elk Grove, California",169454,171844,2390,1.4,California
+"Washington, District of Columbia",684336,693972,9636,1.4,District of Columbia
+"Denton, Texas",134385,136268,1883,1.4,Texas
+"Homestead, Florida",68944,69907,963,1.4,Florida
+"Rapid City, South Dakota",73407,74421,1014,1.4,South Dakota
+"Olathe, Kansas",135601,137472,1871,1.4,Kansas
+"Hesperia, California",93568,94859,1291,1.4,California
+"Palm Beach Gardens, Florida",54288,55036,748,1.4,Florida
+"Huntsville, Alabama",191956,194585,2629,1.4,Alabama
+"Daytona Beach, Florida",67139,68055,916,1.4,Florida
+"Allen, Texas",99338,100685,1347,1.4,Texas
+"Lynchburg, Virginia",79912,80995,1083,1.4,Virginia
+"Austin, Texas",938200,950715,12515,1.3,Texas
+"Lewisville, Texas",104626,106021,1395,1.3,Texas
+"Rock Hill, South Carolina",72108,73068,960,1.3,South Carolina
+"Grand Rapids, Michigan",196251,198829,2578,1.3,Michigan
+"Hanford, California",55768,56499,731,1.3,California
+"Fairfield, California",114776,116266,1490,1.3,California
+"O'Fallon, Missouri",86477,87597,1120,1.3,Missouri
+"West Palm Beach, Florida",108818,110222,1404,1.3,Florida
+"Cambridge, Massachusetts",112183,113630,1447,1.3,Massachusetts
+"Flagstaff, Arizona",71060,71975,915,1.3,Arizona
+"St. Petersburg, Florida",259919,263255,3336,1.3,Florida
+"Shoreline, Washington",55480,56189,709,1.3,Washington
+"Overland Park, Kansas",188867,191278,2411,1.3,Kansas
+"Davis, California",68118,68986,868,1.3,California
+"Jacksonville, Florida",880893,892062,11169,1.3,Florida
+"Aurora, Colorado",362036,366623,4587,1.3,Colorado
+"Norman, Oklahoma",121317,122843,1526,1.3,Oklahoma
+"Pembroke Pines, Florida",168597,170712,2115,1.3,Florida
+"Lincoln, Nebraska",281236,284736,3500,1.2,Nebraska
+"Raleigh, North Carolina",459048,464758,5710,1.2,North Carolina
+"Carlsbad, California",113920,115330,1410,1.2,California
+"Jersey City, New Jersey",267446,270753,3307,1.2,New Jersey
+"Madison, Wisconsin",252107,255214,3107,1.2,Wisconsin
+"Plymouth, Minnesota",77447,78395,948,1.2,Minnesota
+"Chula Vista, California",267203,270471,3268,1.2,California
+"Fontana, California",209268,211815,2547,1.2,California
+"Lee's Summit, Missouri",96134,97290,1156,1.2,Missouri
+"Lenexa, Kansas",52918,53553,635,1.2,Kansas
+"Coral Springs, Florida",131462,133037,1575,1.2,Florida
+"Ocala, Florida",58422,59110,688,1.2,Florida
+"Chesapeake, Virginia",237621,240397,2776,1.2,Virginia
+"Winston-Salem, North Carolina",241805,244605,2800,1.2,North Carolina
+"Clearwater, Florida",114194,115513,1319,1.2,Florida
+"Jupiter town, Florida",64236,64976,740,1.2,Florida
+"Brookhaven, Georgia",52909,53518,609,1.2,Georgia
+"Lake Havasu City, Arizona",53793,54411,618,1.1,Arizona
+"Lake Forest, California",83337,84293,956,1.1,California
+"Kirkland, Washington",87636,88630,994,1.1,Washington
+"Yuma, Arizona",94431,95502,1071,1.1,Arizona
+"Arvada, Colorado",117477,118807,1330,1.1,Colorado
+"Greensboro, North Carolina",287018,290222,3204,1.1,North Carolina
+"Folsom, California",77180,78038,858,1.1,California
+"Turlock, California",72751,73556,805,1.1,California
+"Rowlett, Texas",62190,62868,678,1.1,Texas
+"Chattanooga, Tennessee",177208,179139,1931,1.1,Tennessee
+"Columbia, Missouri",120412,121717,1305,1.1,Missouri
+"La Habra, California",61797,62466,669,1.1,California
+"Minnetonka, Minnesota",52519,53085,566,1.1,Minnesota
+"Sarasota, Florida",56391,56994,603,1.1,Florida
+"Knoxville, Tennessee",185385,187347,1962,1.1,Tennessee
+"Suffolk, Virginia",89294,90237,943,1.1,Virginia
+"Sandy Springs, Georgia",105625,106739,1114,1.1,Georgia
+"Greenville, North Carolina",91196,92156,960,1.1,North Carolina
+"Stockton, California",307270,310496,3226,1.0,California
+"Lubbock, Texas",251254,253888,2634,1.0,Texas
+"Riverside, California",324336,327728,3392,1.0,California
+"Bakersfield, California",376944,380874,3930,1.0,California
+"Moreno Valley, California",205090,207226,2136,1.0,California
+"Glendale, Arizona",244168,246709,2541,1.0,Arizona
+"Modesto, California",212035,214221,2186,1.0,California
+"Midland, Texas",134702,136089,1387,1.0,Texas
+"North Charleston, South Carolina",109732,110861,1129,1.0,South Carolina
+"Lansing, Michigan",115797,116986,1189,1.0,Michigan
+"Grand Prairie, Texas",191874,193837,1963,1.0,Texas
+"Tyler, Texas",103930,104991,1061,1.0,Texas
+"Everett, Washington",108974,110079,1105,1.0,Washington
+"Ames, Iowa",65838,66498,660,1.0,Iowa
+"Glendale, California",201039,203054,2015,1.0,California
+"Bryan, Texas",83188,84021,833,1.0,Texas
+"Hollywood, Florida",152122,153627,1505,1.0,Florida
+"Vancouver, Washington",173957,175673,1716,1.0,Washington
+"Pueblo, Colorado",110044,111127,1083,1.0,Colorado
+"Portland, Oregon",641494,647805,6311,1.0,Oregon
+"St. Paul, Minnesota",303637,306621,2984,1.0,Minnesota
+"Boston, Massachusetts",678430,685094,6664,1.0,Massachusetts
+"Plantation, Florida",92996,93909,913,1.0,Florida
+"Chapel Hill town, North Carolina",59283,59862,579,1.0,North Carolina
+"Burien, Washington",51177,51671,494,1.0,Washington
+"Apple Valley, Minnesota",51938,52435,497,1.0,Minnesota
+"Tallahassee, Florida",189255,191049,1794,0.9,Florida
+"Bolingbrook village, Illinois",74496,75201,705,0.9,Illinois
+"San Francisco, California",876103,884363,8260,0.9,California
+"Laredo, Texas",258232,260654,2422,0.9,Texas
+"White Plains, New York",58499,59047,548,0.9,New York
+"Lakewood, Washington",59738,60296,558,0.9,Washington
+"Cathedral City, California",54094,54596,502,0.9,California
+"Spokane, Washington",215114,217108,1994,0.9,Washington
+"DeSoto, Texas",53079,53568,489,0.9,Texas
+"Rochester Hills, Michigan",73532,74205,673,0.9,Michigan
+"San Diego, California",1406682,1419516,12834,0.9,California
+"Lexington-Fayette urban county, Kentucky",319052,321959,2907,0.9,Kentucky
+"Garland, Texas",235868,238002,2134,0.9,Texas
+"Stamford, Connecticut",129654,130824,1170,0.9,Connecticut
+"Apple Valley town, California",72426,73077,651,0.9,California
+"Cedar Rapids, Iowa",131051,132228,1177,0.9,Iowa
+"Moore, Oklahoma",60976,61523,547,0.9,Oklahoma
+"San Marcos, California",95346,96198,852,0.9,California
+"Edina, Minnesota",51500,51958,458,0.9,Minnesota
+"Fresno, California",522792,527438,4646,0.9,California
+"Blue Springs, Missouri",54462,54945,483,0.9,Missouri
+"Hemet, California",84419,85160,741,0.9,California
+"Highland, California",54864,55342,478,0.9,California
+"Sanford, Florida",58806,59317,511,0.9,Florida
+"Pocatello, Idaho",54718,55193,475,0.9,Idaho
+"Oakland, California",421566,425195,3629,0.9,California
+"Orlando, Florida",277879,280257,2378,0.9,Florida
+"West Sacramento, California",53059,53512,453,0.9,California
+"Carson City, Nevada",54283,54745,462,0.9,Nevada
+"Cerritos, California",50591,51020,429,0.8,California
+"Oxnard, California",208303,210037,1734,0.8,California
+"Logan, Utah",50697,51115,418,0.8,Utah
+"Mission, Texas",83740,84424,684,0.8,Texas
+"Loveland, Colorado",76080,76701,621,0.8,Colorado
+"Gaithersburg, Maryland",68158,68710,552,0.8,Maryland
+"Tamarac, Florida",65146,65669,523,0.8,Florida
+"Corona, California",166507,167836,1329,0.8,California
+"Bloomington, Indiana",84400,85071,671,0.8,Indiana
+"North Richland Hills, Texas",69891,70441,550,0.8,Texas
+"Asheville, North Carolina",91190,91902,712,0.8,North Carolina
+"Tucson, Arizona",531547,535677,4130,0.8,Arizona
+"Richmond, Virginia",225288,227032,1744,0.8,Virginia
+"Wellington village, Florida",64351,64848,497,0.8,Florida
+"Pompano Beach, Florida",109634,110473,839,0.8,Florida
+"Fort Wayne, Indiana",263893,265904,2011,0.8,Indiana
+"Brooklyn Park, Minnesota",79972,80581,609,0.8,Minnesota
+"Charleston, South Carolina",133859,134875,1016,0.8,South Carolina
+"Orem, Utah",97111,97839,728,0.7,Utah
+"Tempe, Arizona",183683,185038,1355,0.7,Arizona
+"Santa Cruz, California",64545,65021,476,0.7,California
+"Bismarck, North Dakota",72332,72865,533,0.7,North Dakota
+"Las Cruces, New Mexico",100973,101712,739,0.7,New Mexico
+"Delano, California",52752,53138,386,0.7,California
+"Cincinnati, Ohio",299127,301301,2174,0.7,Ohio
+"Miramar, Florida",139322,140328,1006,0.7,Florida
+"Costa Mesa, California",113018,113825,807,0.7,California
+"Bossier City, Louisiana",68071,68554,483,0.7,Louisiana
+"Euless, Texas",54786,55174,388,0.7,Texas
+"Largo, Florida",84161,84754,593,0.7,Florida
+"Rancho Cucamonga, California",176213,177452,1239,0.7,California
+"Oklahoma City, Oklahoma",639163,643648,4485,0.7,Oklahoma
+"Lynn, Massachusetts",93420,94063,643,0.7,Massachusetts
+"Centennial, Colorado",109498,110250,752,0.7,Colorado
+"Livermore, California",89682,90295,613,0.7,California
+"Santa Maria, California",106302,107014,712,0.7,California
+"Lakewood, Colorado",153929,154958,1029,0.7,Colorado
+"Hayward, California",159445,160500,1055,0.7,California
+"Hialeah, Florida",238098,239673,1575,0.7,Florida
+"Pleasanton, California",82467,83007,540,0.7,California
+"Weston, Florida",70484,70944,460,0.7,Florida
+"McAllen, Texas",141776,142696,920,0.6,Texas
+"Yuba City, California",66429,66860,431,0.6,California
+"Indianapolis (balance), Indiana",857453,863002,5549,0.6,Indiana
+"Warner Robins, Georgia",74377,74854,477,0.6,Georgia
+"Champaign, Illinois",86877,87432,555,0.6,Illinois
+"Yucaipa, California",53343,53683,340,0.6,California
+"Walnut Creek, California",69332,69773,441,0.6,California
+"Pinellas Park, Florida",52520,52854,334,0.6,Florida
+"Edmond, Oklahoma",91370,91950,580,0.6,Oklahoma
+"Ann Arbor, Michigan",120713,121477,764,0.6,Michigan
+"Citrus Heights, California",87380,87931,551,0.6,California
+"Amarillo, Texas",198576,199826,1250,0.6,Texas
+"Lafayette, Indiana",71941,72390,449,0.6,Indiana
+"Novi, Michigan",59348,59715,367,0.6,Michigan
+"Haverhill, Massachusetts",63252,63639,387,0.6,Massachusetts
+"Joplin, Missouri",51973,52288,315,0.6,Missouri
+"Arlington, Texas",394017,396394,2377,0.6,Texas
+"Vallejo, California",121376,122105,729,0.6,California
+"Kent, Washington",127694,128458,764,0.6,Washington
+"Stonecrest, Georgia",54148,54471,323,0.6,Georgia
+"Santa Fe, New Mexico",83287,83776,489,0.6,New Mexico
+"Mountain View, California",80963,81438,475,0.6,California
+"Upland, California",76552,76999,447,0.6,California
+"St. Cloud, Minnesota",67590,67984,394,0.6,Minnesota
+"Camarillo, California",67468,67845,377,0.6,California
+"Schenectady, New York",65268,65625,357,0.5,New York
+"Merced, California",82630,83081,451,0.5,California
+"Milford (balance), Connecticut",52685,52970,285,0.5,Connecticut
+"Louisville/Jefferson County metro government (balance), Kentucky",618030,621349,3319,0.5,Kentucky
+"Berkeley, California",121672,122324,652,0.5,California
+"Gainesville, Florida",131546,132249,703,0.5,Florida
+"Redding, California",91308,91794,486,0.5,California
+"Alpharetta, Georgia",65451,65799,348,0.5,Georgia
+"Eau Claire, Wisconsin",68226,68587,361,0.5,Wisconsin
+"Scranton, Pennsylvania",77199,77605,406,0.5,Pennsylvania
+"Broken Arrow, Oklahoma",107737,108303,566,0.5,Oklahoma
+"Wyoming, Michigan",75542,75938,396,0.5,Michigan
+"Deerfield Beach, Florida",80151,80571,420,0.5,Florida
+"Springfield, Ohio",58902,59208,306,0.5,Ohio
+"Janesville, Wisconsin",64029,64359,330,0.5,Wisconsin
+"Wichita Falls, Texas",104211,104747,536,0.5,Texas
+"Kansas City, Kansas",152159,152938,779,0.5,Kansas
+"Kenosha, Wisconsin",99371,99877,506,0.5,Wisconsin
+"Allentown, Pennsylvania",120670,121283,613,0.5,Pennsylvania
+"Harrisonburg, Virginia",53943,54215,272,0.5,Virginia
+"Redlands, California",71196,71554,358,0.5,California
+"Fremont, California",233801,234962,1161,0.5,California
+"Eden Prairie, Minnesota",64082,64400,318,0.5,Minnesota
+"Eagan, Minnesota",66302,66627,325,0.5,Minnesota
+"Sunrise, Florida",93873,94323,450,0.5,Florida
+"Owensboro, Kentucky",59121,59404,283,0.5,Kentucky
+"Margate, Florida",58152,58430,278,0.5,Florida
+"Valdosta, Georgia",55819,56085,266,0.5,Georgia
+"Concord, California",129172,129783,611,0.5,California
+"Baytown, Texas",76443,76804,361,0.5,Texas
+"Nashua, New Hampshire",87929,88341,412,0.5,New Hampshire
+"Los Angeles, California",3981116,3999759,18643,0.5,California
+"Shawnee, Kansas",65210,65513,303,0.5,Kansas
+"Johns Creek, Georgia",83965,84350,385,0.5,Georgia
+"Petaluma, California",60593,60870,277,0.5,California
+"San Bernardino, California",216018,216995,977,0.5,California
+"Lauderhill, Florida",71649,71970,321,0.4,Florida
+"Provo, Utah",116822,117335,513,0.4,Utah
+"Paterson, New Jersey",148031,148678,647,0.4,New Jersey
+"Hoover, Alabama",84551,84920,369,0.4,Alabama
+"Galveston, Texas",50279,50497,218,0.4,Texas
+"Des Moines, Iowa",216582,217521,939,0.4,Iowa
+"Huntington Beach, California",201004,201874,870,0.4,California
+"Fort Lauderdale, Florida",179308,180072,764,0.4,Florida
+"Sugar Land, Texas",88114,88485,371,0.4,Texas
+"Nashville-Davidson metropolitan government (balance), Tennessee",664762,667560,2798,0.4,Tennessee
+"Gulfport, Mississippi",71523,71822,299,0.4,Mississippi
+"Springfield, Missouri",166681,167376,695,0.4,Missouri
+"Fort Smith, Arkansas",87675,88037,362,0.4,Arkansas
+"Oceanside, California",175473,176193,720,0.4,California
+"Santee, California",57876,58113,237,0.4,California
+"El Paso, Texas",680797,683577,2780,0.4,Texas
+"Manchester, New Hampshire",110747,111196,449,0.4,New Hampshire
+"Antioch, California",111224,111674,450,0.4,California
+"Bethlehem, Pennsylvania",75402,75707,305,0.4,Pennsylvania
+"West New York town, New Jersey",54014,54227,213,0.4,New Jersey
+"Arcadia, California",58570,58799,229,0.4,California
+"Grand Forks, North Dakota",56834,57056,222,0.4,North Dakota
+"Trenton, New Jersey",84635,84964,329,0.4,New Jersey
+"Philadelphia, Pennsylvania",1574765,1580863,6098,0.4,Pennsylvania
+"Bartlett, Tennessee",58878,59102,224,0.4,Tennessee
+"Youngstown, Ohio",64360,64604,244,0.4,Ohio
+"Rialto, California",103171,103562,391,0.4,California
+"Glendora, California",52250,52445,195,0.4,California
+"West Jordan, Utah",113484,113905,421,0.4,Utah
+"Green Bay, Wisconsin",104728,105116,388,0.4,Wisconsin
+"Plainfield, New Jersey",51140,51327,187,0.4,New Jersey
+"Colton, California",54632,54828,196,0.4,California
+"Houston, Texas",2304482,2312717,8235,0.4,Texas
+"Omaha, Nebraska",465233,466893,1660,0.4,Nebraska
+"Ogden, Utah",86725,87031,306,0.4,Utah
+"Aliso Viejo, California",51490,51671,181,0.4,California
+"San Buenaventura (Ventura), California",110404,110790,386,0.3,California
+"Watsonville, California",53910,54098,188,0.3,California
+"Peabody, Massachusetts",52804,52987,183,0.3,Massachusetts
+"Santa Clara, California",126697,127134,437,0.3,California
+"Bloomington, Minnesota",85572,85866,294,0.3,Minnesota
+"Irving, Texas",239573,240373,800,0.3,Texas
+"National City, California",61160,61363,203,0.3,California
+"Naperville, Illinois",147194,147682,488,0.3,Illinois
+"San Jose, California",1031942,1035317,3375,0.3,California
+"Coon Rapids, Minnesota",62452,62656,204,0.3,Minnesota
+"Union City, New Jersey",70167,70387,220,0.3,New Jersey
+"Brockton, Massachusetts",95373,95672,299,0.3,Massachusetts
+"Somerville, Massachusetts",81106,81360,254,0.3,Massachusetts
+"Kokomo, Indiana",57657,57836,179,0.3,Indiana
+"Brownsville, Texas",182736,183299,563,0.3,Texas
+"Worcester, Massachusetts",185119,185677,558,0.3,Massachusetts
+"Lawrence, Massachusetts",79922,80162,240,0.3,Massachusetts
+"Simi Valley, California",126518,126878,360,0.3,California
+"Newton, Massachusetts",88742,88994,252,0.3,Massachusetts
+"Terre Haute, Indiana",60602,60774,172,0.3,Indiana
+"Victorville, California",122096,122441,345,0.3,California
+"Appleton, Wisconsin",74447,74653,206,0.3,Wisconsin
+"Bowie, Maryland",58699,58859,160,0.3,Maryland
+"Newark, New Jersey",284386,285154,768,0.3,New Jersey
+"High Point, North Carolina",111214,111513,299,0.3,North Carolina
+"Burnsville, Minnesota",61278,61439,161,0.3,Minnesota
+"Oshkosh, Wisconsin",66492,66665,173,0.3,Wisconsin
+"Pasadena, California",142279,142647,368,0.3,California
+"Elizabeth, New Jersey",129882,130215,333,0.3,New Jersey
+"Santa Clarita, California",210349,210888,539,0.3,California
+"Perth Amboy, New Jersey",52690,52823,133,0.3,New Jersey
+"Bellevue, Nebraska",53290,53424,134,0.3,Nebraska
+"Missouri City, Texas",74312,74497,185,0.2,Texas
+"Oak Park village, Illinois",52132,52261,129,0.2,Illinois
+"Reading, Pennsylvania",88207,88423,216,0.2,Pennsylvania
+"Providence, Rhode Island",179954,180393,439,0.2,Rhode Island
+"Abilene, Texas",121590,121885,295,0.2,Texas
+"Taunton, Massachusetts",57002,57139,137,0.2,Massachusetts
+"Johnson City, Tennessee",66233,66391,158,0.2,Tennessee
+"Anaheim, California",351661,352497,836,0.2,California
+"Renton, Washington",101142,101379,237,0.2,Washington
+"Burbank, California",104599,104834,235,0.2,California
+"Sterling Heights, Michigan",132334,132631,297,0.2,Michigan
+"Clifton, New Jersey",86414,86607,193,0.2,New Jersey
+"Lorain, Ohio",63700,63841,141,0.2,Ohio
+"South Bend, Indiana",102022,102245,223,0.2,Indiana
+"Richmond, California",109802,110040,238,0.2,California
+"Yakima, Washington",93476,93667,191,0.2,Washington
+"Santa Barbara, California",91916,92101,185,0.2,California
+"Roswell, Georgia",94601,94786,185,0.2,Georgia
+"Milpitas, California",77957,78106,149,0.2,California
+"New Haven, Connecticut",130768,131014,246,0.2,Connecticut
+"Pawtucket, Rhode Island",71867,72001,134,0.2,Rhode Island
+"Albuquerque, New Mexico",557509,558545,1036,0.2,New Mexico
+"Harlingen, Texas",65355,65467,112,0.2,Texas
+"Cranston, Rhode Island",81065,81202,137,0.2,Rhode Island
+"Escondido, California",151717,151969,252,0.2,California
+"Bayonne, New Jersey",67076,67186,110,0.2,New Jersey
+"San Angelo, Texas",99956,100119,163,0.2,Texas
+"Beaumont, Texas",118921,119114,193,0.2,Texas
+"San Ramon, California",75810,75931,121,0.2,California
+"Pomona, California",152697,152939,242,0.2,California
+"Hoboken, New Jersey",55044,55131,87,0.2,New Jersey
+"Little Rock, Arkansas",198307,198606,299,0.2,Arkansas
+"Smyrna, Georgia",56600,56685,85,0.2,Georgia
+"Billings, Montana",109482,109642,160,0.1,Montana
+"Chicopee, Massachusetts",55434,55515,81,0.1,Massachusetts
+"Vista, California",101420,101568,148,0.1,California
+"Porterville, California",59059,59145,86,0.1,California
+"Jackson, Tennessee",66751,66847,96,0.1,Tennessee
+"Gardena, California",60138,60224,86,0.1,California
+"Yonkers, New York",201738,202019,281,0.1,New York
+"Passaic, New Jersey",71148,71247,99,0.1,New Jersey
+"San Mateo, California",104603,104748,145,0.1,California
+"Marietta, Georgia",60966,61048,82,0.1,Georgia
+"Kentwood, Michigan",51679,51747,68,0.1,Michigan
+"Hempstead village, New York",55735,55806,71,0.1,New York
+"West Haven, Connecticut",54774,54843,69,0.1,Connecticut
+"Springfield, Massachusetts",154565,154758,193,0.1,Massachusetts
+"Waukesha, Wisconsin",72399,72489,90,0.1,Wisconsin
+"Savannah, Georgia",146264,146444,180,0.1,Georgia
+"Wichita, Kansas",390116,390591,475,0.1,Kansas
+"Quincy, Massachusetts",94053,94166,113,0.1,Massachusetts
+"Troy, Michigan",83717,83813,96,0.1,Michigan
+"Norwalk, Connecticut",88904,89005,101,0.1,Connecticut
+"Grand Island, Nebraska",51332,51390,58,0.1,Nebraska
+"La Mesa, California",59955,60021,66,0.1,California
+"Manhattan, Kansas",54772,54832,60,0.1,Kansas
+"Joliet, Illinois",148300,148462,162,0.1,Illinois
+"El Monte, California",115983,116109,126,0.1,California
+"Lancaster, Pennsylvania",59646,59708,62,0.1,Pennsylvania
+"Royal Oak, Michigan",59051,59112,61,0.1,Michigan
+"El Cajon, California",103793,103894,101,0.1,California
+"Encinitas, California",63124,63184,60,0.1,California
+"Beaverton, Oregon",97422,97514,92,0.1,Oregon
+"Roanoke, Virginia",99743,99837,94,0.1,Virginia
+"New York, New York",8615426,8622698,7272,0.1,New York
+"Dubuque, Iowa",58228,58276,48,0.1,Iowa
+"Racine, Wisconsin",77479,77542,63,0.1,Wisconsin
+"Fall River, Massachusetts",89355,89420,65,0.1,Massachusetts
+"New Orleans, Louisiana",393021,393292,271,0.1,Louisiana
+"Akron, Ohio",197711,197846,135,0.1,Ohio
+"Revere, Massachusetts",53958,53993,35,0.1,Massachusetts
+"Normal town, Illinois",54251,54284,33,0.1,Illinois
+"Southfield, Michigan",73165,73208,43,0.1,Michigan
+"Buffalo, New York",258463,258612,149,0.1,New York
+"Kalamazoo, Michigan",75766,75807,41,0.1,Michigan
+"Great Falls, Montana",58845,58876,31,0.1,Montana
+"Meriden, Connecticut",59898,59927,29,0.0,Connecticut
+"South San Francisco, California",67397,67429,32,0.0,California
+"St. Peters, Missouri",57151,57178,27,0.0,Missouri
+"Dothan, Alabama",68172,68202,30,0.0,Alabama
+"Cheyenne, Wyoming",63601,63624,23,0.0,Wyoming
+"Miami Gardens, Florida",113714,113750,36,0.0,Florida
+"Palmdale, California",157472,157519,47,0.0,California
+"East Orange, New Jersey",65359,65378,19,0.0,New Jersey
+"Camden, New Jersey",74513,74532,19,0.0,New Jersey
+"Lancaster, California",160289,160316,27,0.0,California
+"Westminster, Colorado",112798,112812,14,0.0,Colorado
+"Elyria, Ohio",53880,53883,3,0.0,Ohio
+"Jacksonville, North Carolina",72444,72447,3,0.0,North Carolina
+"Plano, Texas",286132,286143,11,0.0,Texas
+"Kenner, Louisiana",67449,67451,2,0.0,Louisiana
+"La Crosse, Wisconsin",51836,51834,-2,0.0,Wisconsin
+"Warren, Michigan",135030,135022,-8,0.0,Michigan
+"Salinas, California",157618,157596,-22,0.0,California
+"Portland, Maine",66892,66882,-10,0.0,Maine
+"New Brunswick, New Jersey",57082,57073,-9,0.0,New Jersey
+"Elkhart, Indiana",52567,52558,-9,0.0,Indiana
+"New Bedford, Massachusetts",95143,95120,-23,0.0,Massachusetts
+"Alameda, California",79199,79177,-22,0.0,California
+"Santa Rosa, California",175320,175269,-51,0.0,California
+"Anderson, Indiana",55094,55076,-18,0.0,Indiana
+"Thousand Oaks, California",129038,128995,-43,0.0,California
+"Daly City, California",107112,107074,-38,0.0,California
+"Duluth, Minnesota",86101,86066,-35,0.0,Minnesota
+"Corpus Christi, Texas",325763,325605,-158,0.0,Texas
+"Independence, Missouri",117365,117306,-59,-0.1,Missouri
+"Tustin, California",80540,80498,-42,-0.1,California
+"Lawton, Oklahoma",93763,93714,-49,-0.1,Oklahoma
+"Elgin, Illinois",112517,112456,-61,-0.1,Illinois
+"Rosemead, California",54584,54554,-30,-0.1,California
+"Davenport, Iowa",102385,102320,-65,-0.1,Iowa
+"Kettering, Ohio",55218,55175,-43,-0.1,Ohio
+"Poway, California",50080,50041,-39,-0.1,California
+"Federal Way, Washington",96775,96690,-85,-0.1,Washington
+"Sunnyvale, California",153797,153656,-141,-0.1,California
+"Augusta-Richmond County consolidated government (balance), Georgia",197357,197166,-191,-0.1,Georgia
+"Yorba Linda, California",68296,68229,-67,-0.1,California
+"Compton, California",97710,97612,-98,-0.1,California
+"San Rafael, California",59131,59070,-61,-0.1,California
+"Hamilton, Ohio",62157,62092,-65,-0.1,Ohio
+"Warwick, Rhode Island",80958,80871,-87,-0.1,Rhode Island
+"St. Clair Shores, Michigan",59700,59635,-65,-0.1,Michigan
+"Waterbury, Connecticut",108750,108629,-121,-0.1,Connecticut
+"Lowell, Massachusetts",111472,111346,-126,-0.1,Massachusetts
+"Monterey Park, California",61117,61044,-73,-0.1,California
+"Aurora, Illinois",201228,200965,-263,-0.1,Illinois
+"Orange, California",140746,140560,-186,-0.1,California
+"Utica, New York",60716,60635,-81,-0.1,New York
+"Medford, Massachusetts",57876,57797,-79,-0.1,Massachusetts
+"Albany, New York",98387,98251,-136,-0.1,New York
+"Chicago, Illinois",2720275,2716450,-3825,-0.1,Illinois
+"Midwest City, Oklahoma",57392,57308,-84,-0.1,Oklahoma
+"Malden, Massachusetts",61336,61246,-90,-0.1,Massachusetts
+"Coral Gables, Florida",51171,51095,-76,-0.1,Florida
+"Topeka, Kansas",126787,126587,-200,-0.2,Kansas
+"Port Arthur, Texas",55587,55498,-89,-0.2,Texas
+"Battle Creek, Michigan",51369,51286,-83,-0.2,Michigan
+"Farmington Hills, Michigan",81182,81050,-132,-0.2,Michigan
+"Danbury, Connecticut",85385,85246,-139,-0.2,Connecticut
+"Pontiac, Michigan",59894,59792,-102,-0.2,Michigan
+"Paramount, California",55004,54909,-95,-0.2,California
+"Memphis, Tennessee",653369,652236,-1133,-0.2,Tennessee
+"Whittier, California",86989,86838,-151,-0.2,California
+"Council Bluffs, Iowa",62425,62316,-109,-0.2,Iowa
+"Mount Vernon, New York",68824,68703,-121,-0.2,New York
+"Inglewood, California",110800,110598,-202,-0.2,California
+"Bellflower, California",77918,77772,-146,-0.2,California
+"Wilmington, Delaware",71244,71106,-138,-0.2,Delaware
+"Westland, Michigan",81907,81747,-160,-0.2,Michigan
+"New Rochelle, New York",80108,79946,-162,-0.2,New York
+"Longview, Texas",81690,81522,-168,-0.2,Texas
+"Baldwin Park, California",76566,76402,-164,-0.2,California
+"Virginia Beach, Virginia",451404,450435,-969,-0.2,Virginia
+"Wheaton, Illinois",53488,53373,-115,-0.2,Illinois
+"Norwalk, California",106314,106084,-230,-0.2,California
+"Sandy, Utah",96355,96145,-210,-0.2,Utah
+"Miami Beach, Florida",92510,92307,-203,-0.2,Florida
+"San Clemente, California",65411,65267,-144,-0.2,California
+"Macon-Bibb County, Georgia",153006,152663,-343,-0.2,Georgia
+"North Little Rock, Arkansas",66066,65911,-155,-0.2,Arkansas
+"Huntington Park, California",58962,58822,-140,-0.2,California
+"Santa Ana, California",334953,334136,-817,-0.2,California
+"Alhambra, California",85615,85396,-219,-0.3,California
+"Taylor, Michigan",61435,61276,-159,-0.3,Michigan
+"Bristol, Connecticut",60380,60223,-157,-0.3,Connecticut
+"Birmingham, Alabama",211263,210710,-553,-0.3,Alabama
+"Dayton, Ohio",140743,140371,-372,-0.3,Ohio
+"Odessa, Texas",117172,116861,-311,-0.3,Texas
+"Westminster, California",91809,91564,-245,-0.3,California
+"Livonia, Michigan",94359,94105,-254,-0.3,Michigan
+"Carson, California",92986,92735,-251,-0.3,California
+"Mesquite, Texas",144343,143949,-394,-0.3,Texas
+"Downey, California",113402,113092,-310,-0.3,California
+"Lynwood, California",71294,71099,-195,-0.3,California
+"South Gate, California",95692,95430,-262,-0.3,California
+"Montgomery, Alabama",200066,199518,-548,-0.3,Alabama
+"San Leandro, California",90807,90553,-254,-0.3,California
+"Novato, California",56139,55980,-159,-0.3,California
+"Hawthorne, California",88104,87854,-250,-0.3,California
+"Union City, California",75558,75343,-215,-0.3,California
+"Diamond Bar, California",56827,56665,-162,-0.3,California
+"Torrance, California",147187,146758,-429,-0.3,California
+"New Britain, Connecticut",72923,72710,-213,-0.3,Connecticut
+"Redondo Beach, California",68109,67908,-201,-0.3,California
+"Sioux City, Iowa",82759,82514,-245,-0.3,Iowa
+"Bridgeport, Connecticut",147016,146579,-437,-0.3,Connecticut
+"Long Beach, California",470852,469450,-1402,-0.3,California
+"Columbia, South Carolina",133514,133114,-400,-0.3,South Carolina
+"West Covina, California",107935,107598,-337,-0.3,California
+"Bloomington, Illinois",78181,77934,-247,-0.3,Illinois
+"Rochester, New York",208710,208046,-664,-0.3,New York
+"Santa Monica, California",92603,92306,-297,-0.3,California
+"North Miami, Florida",62430,62225,-205,-0.3,Florida
+"Gresham, Oregon",111420,111053,-367,-0.3,Oregon
+"Pico Rivera, California",63732,63522,-210,-0.3,California
+"Lakewood, California",81235,80967,-268,-0.3,California
+"Pensacola, Florida",52765,52590,-175,-0.3,Florida
+"Norfolk, Virginia",245532,244703,-829,-0.3,Virginia
+"Buena Park, California",83298,83015,-283,-0.3,California
+"Dearborn, Michigan",94819,94491,-328,-0.3,Michigan
+"Montebello, California",63415,63192,-223,-0.4,California
+"Detroit, Michigan",675480,673104,-2376,-0.4,Michigan
+"Placentia, California",52343,52157,-186,-0.4,California
+"Evansville, Indiana",119357,118930,-427,-0.4,Indiana
+"Arlington Heights village, Illinois",75908,75634,-274,-0.4,Illinois
+"Milwaukee, Wisconsin",597508,595351,-2157,-0.4,Wisconsin
+"Hartford, Connecticut",123853,123400,-453,-0.4,Connecticut
+"Decatur, Alabama",54605,54405,-200,-0.4,Alabama
+"Dearborn Heights, Michigan",55965,55758,-207,-0.4,Michigan
+"Millcreek, Utah",60416,60192,-224,-0.4,Utah
+"Syracuse, New York",143941,143396,-545,-0.4,New York
+"Tulsa, Oklahoma",403333,401800,-1533,-0.4,Oklahoma
+"St. Joseph, Missouri",76740,76442,-298,-0.4,Missouri
+"Cupertino, California",61016,60777,-239,-0.4,California
+"Pasadena, Texas",154128,153520,-608,-0.4,Texas
+"Fullerton, California",140968,140392,-576,-0.4,California
+"Muncie, Indiana",68907,68625,-282,-0.4,Indiana
+"Victoria, Texas",67383,67106,-277,-0.4,Texas
+"Waterloo, Iowa",67868,67587,-281,-0.4,Iowa
+"Urban Honolulu CDP, Hawaii",351859,350395,-1464,-0.4,Hawaii
+"Napa, California",80111,79774,-337,-0.4,California
+"Vineland, New Jersey",60653,60392,-261,-0.4,New Jersey
+"Portsmouth, Virginia",94997,94572,-425,-0.4,Virginia
+"Lafayette, Louisiana",127429,126848,-581,-0.5,Louisiana
+"Palo Alto, California",67490,67178,-312,-0.5,California
+"Hampton, Virginia",135332,134669,-663,-0.5,Virginia
+"West Valley City, Utah",136846,136170,-676,-0.5,Utah
+"Fayetteville, North Carolina",210934,209889,-1045,-0.5,North Carolina
+"Lakewood, Ohio",50500,50249,-251,-0.5,Ohio
+"Cleveland, Ohio",387451,385525,-1926,-0.5,Ohio
+"Orland Park village, Illinois",59059,58765,-294,-0.5,Illinois
+"Rockford, Illinois",147800,147051,-749,-0.5,Illinois
+"Florissant, Missouri",51712,51443,-269,-0.5,Missouri
+"Mission Viejo, California",96519,96016,-503,-0.5,California
+"Parma, Ohio",79591,79167,-424,-0.5,Ohio
+"Canton, Ohio",71294,70909,-385,-0.5,Ohio
+"Des Plaines, Illinois",58510,58193,-317,-0.5,Illinois
+"Flint, Michigan",96985,96448,-537,-0.6,Michigan
+"Newport News, Virginia",180388,179388,-1000,-0.6,Virginia
+"Waukegan, Illinois",88219,87729,-490,-0.6,Illinois
+"Garden Grove, California",175206,174226,-980,-0.6,California
+"Fountain Valley, California",56631,56313,-318,-0.6,California
+"Palatine village, Illinois",69047,68644,-403,-0.6,Illinois
+"Tinley Park village, Illinois",57006,56668,-338,-0.6,Illinois
+"Hoffman Estates village, Illinois",51895,51567,-328,-0.6,Illinois
+"Boulder, Colorado",107844,107125,-719,-0.7,Colorado
+"Schaumburg village, Illinois",74692,74184,-508,-0.7,Illinois
+"Mobile, Alabama",191590,190265,-1325,-0.7,Alabama
+"Springfield, Illinois",115734,114868,-866,-0.7,Illinois
+"West Allis, Wisconsin",60392,59934,-458,-0.8,Wisconsin
+"Toledo, Ohio",278606,276491,-2115,-0.8,Ohio
+"Taylorsville, Utah",60452,59992,-460,-0.8,Utah
+"Gary, Indiana",76595,76008,-587,-0.8,Indiana
+"Evanston, Illinois",75338,74756,-582,-0.8,Illinois
+"Oak Lawn village, Illinois",56524,56087,-437,-0.8,Illinois
+"Newport Beach, California",86842,86160,-682,-0.8,California
+"Hammond, Indiana",77230,76618,-612,-0.8,Indiana
+"Mount Prospect village, Illinois",54368,53930,-438,-0.8,Illinois
+"Rocky Mount, North Carolina",54979,54523,-456,-0.8,North Carolina
+"Skokie village, Illinois",64529,63978,-551,-0.9,Illinois
+"Pittsburgh, Pennsylvania",305017,302407,-2610,-0.9,Pennsylvania
+"Baltimore, Maryland",616958,611648,-5310,-0.9,Maryland
+"Decatur, Illinois",72805,72174,-631,-0.9,Illinois
+"Baton Rouge, Louisiana",227352,225374,-1978,-0.9,Louisiana
+"Berwyn, Illinois",56067,55550,-517,-0.9,Illinois
+"Cicero town, Illinois",83323,82552,-771,-0.9,Illinois
+"Erie, Pennsylvania",98289,97369,-920,-0.9,Pennsylvania
+"Waltham, Massachusetts",63052,62442,-610,-1.0,Massachusetts
+"Anchorage municipality, Alaska",297376,294356,-3020,-1.0,Alaska
+"Albany, Georgia",73953,73179,-774,-1.0,Georgia
+"Columbus, Georgia",196307,194058,-2249,-1.1,Georgia
+"Jackson, Mississippi",169005,166965,-2040,-1.2,Mississippi
+"Shreveport, Louisiana",194394,192036,-2358,-1.2,Louisiana
+"Peoria, Illinois",114351,112883,-1468,-1.3,Illinois
+"Enid, Oklahoma",50785,50122,-663,-1.3,Oklahoma
+"St. Louis, Missouri",313144,308626,-4518,-1.4,Missouri
+"Casper, Wyoming",58906,57814,-1092,-1.9,Wyoming
