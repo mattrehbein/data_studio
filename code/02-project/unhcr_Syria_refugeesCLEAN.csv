@@ -1,7 +1,4 @@
-"Extracted from the UNHCR Population Statistics Reference Database","United Nations High Commissioner for Refugees"
-"Date extracted: 2018-07-16 23:34:18 +02:00"
-
-Year,"Country / territory of asylum/residence",Origin,"Refugees (incl. refugee-like situations)","Asylum-seekers (pending cases)","Returned refugees","Internally displaced persons (IDPs)","Returned IDPs","Stateless persons","Others of concern","Total Population"
+Year,Host_Country,Origin,Refugees,Asylum-seekers,Returned refugees,Internally_Displaced_Persons_(IDPs),Returned_IDPs,Stateless persons,Others_of_concern,Total_Population
 2011,"United Arab Emirates","Syrian Arab Rep.",37,6,,,,,,43
 2011,Armenia,"Syrian Arab Rep.",6,2,,,,,,8
 2011,Australia,"Syrian Arab Rep.",84,66,,,,,,150
