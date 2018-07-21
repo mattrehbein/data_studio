@@ -5,6 +5,14 @@ Realized error I had made in how I was looking at the refugee data: the yearly t
 As a way to make the analysis more interesting, today I pulled gdp data from the world bank, in order to see how it relates to Syrian refugee acceptance (how are the world's richest nations responding to one of the world's biggest and most publized crises?). Hoping a scatter plot will work well for that.
 
 
+ERROR LOG:
+
+-error reading in gdp csv. FIX: specified encoding="latin-1"
+-repeatedly getting 'empty dataframe' error when trying to plot something. FIX: 
+
+
+
+
 
 
 ****ORIGINAL IDEA -- couldn't find data in form/categories I was envisioning, so dropped the idea for now.
