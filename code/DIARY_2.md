@@ -1,3 +1,21 @@
+NEXT STEPS:
+
+1. graph who has the most syrian refugees right now (or from last year)
+2. merge that shortened df with gdp numbers
+3. graph top 20 and gdp -- how? together?
+4. look into plotting over time the avg gdp of the top 20 (? or so) countries with most refugees -- maybe that will show a trend if wealthier countries got involved? Or will show they never did
+5. Read Pew piece 
+
+6. Try merging the two dataframes; aren't that many countries so can probably just hand fix name descrepancies tho not sure best way to find them
+7. If step 6 is successful, do a scatter plot
+
+GRAPHS:
+1. top ten
+2. US
+3. number of refugees total since war began (take out Syria again to limit to refugees out of country?)
+4. merged top ten with gdp
+
+
 
 7.19
 Realized error I had made in how I was looking at the refugee data: the yearly total is the population of refugees in the host country, not how many new refugees came to the country that year. That silly mistake led to fair bit of rethinking, as a lot of what I was planning to graph involved totalling the total pop column and analyzing the result by country.
@@ -8,7 +26,7 @@ As a way to make the analysis more interesting, today I pulled gdp data from the
 ERROR LOG:
 
 -error reading in gdp csv. FIX: specified encoding="latin-1"
--repeatedly getting 'empty dataframe' error when trying to plot something. FIX: 
+-repeatedly getting 'empty dataframe' error when trying to plot something. FIX: Cannot have str/object values in y axis
 
 
 
