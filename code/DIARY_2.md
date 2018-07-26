@@ -1,4 +1,10 @@
+7.26
+I'm realizing again that there appear to be different numbers out there on Syrian refugees, most notably with regards to US numbers. 
+
+
 NEXT STEPS:
+
+** color code bars by gdp (top ten or by percentile?)
 
 1. graph who has the most syrian refugees right now (or from last year)
 2. merge that shortened df with gdp numbers
