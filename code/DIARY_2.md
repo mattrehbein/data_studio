@@ -1,10 +1,16 @@
+style/images/pop_MA_temp_practice
+
+How many Syrian refugees are hosted by top-ten GDP countries:
+                How many Syrian refugees are hosted by top-ten GDP per capita countries:
+
+
 7.26
-I'm realizing again that there appear to be different numbers out there on Syrian refugees, most notably with regards to US numbers. 
+I'm realizing again that there appear to be different numbers out there on Syrian refugees, most notably with regards to US numbers. So I'm staying away from US stuff, by and large.
 
 
 NEXT STEPS:
 
-** color code bars by gdp (top ten or by percentile?)
+** color code bars by gdp (top ten or by percentile?) NO
 
 1. graph who has the most syrian refugees right now (or from last year)
 2. merge that shortened df with gdp numbers
