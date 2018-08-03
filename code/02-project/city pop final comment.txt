@@ -1,0 +1,40 @@
+# Final
+
+## Project visuals/text
+![ai_gained_pop](https://user-images.githubusercontent.com/39920601/43023556-433a963c-8c39-11e8-8bdb-04bead9b8a24.png)
+![gain_unemploy](https://user-images.githubusercontent.com/39920601/43023578-5c4874a0-8c39-11e8-9294-f307b8661111.png)
+![lost_pop](https://user-images.githubusercontent.com/39920601/43023588-63264dce-8c39-11e8-9d20-d29bcfa583a4.png)
+![lost_unemploy](https://user-images.githubusercontent.com/39920601/43023595-67b98a0e-8c39-11e8-9638-23ca7c58f35f.png)
+
+Big population increases and decreases in urban areas may be indicative of regional or broader socioeconomic trends -- or maybe not. I thought it'd be interesting to see which US cities of a certain size (50,000 people or bigger) attracted the most new faces last year, and which waved goodbye to the most.
+
+If Family Feud asked me what one thing draws people to a place, I'd say jobs, jobs, jobs. So I decided to pair big changes in population in US cities to those cities' unemployment rates. The results are mixed and do not suggest a simple, straight link between how many people move to or from a city and how many people are out of work in that city. 
+
+Of the five cities that lost the most people last year, three had unemployment rates above the national average, and only two of those were substantially higher. The number for the top five growing cities show a slighter stronger possible connection but are still mixed. In that case, all but one of the top five have lower unemployment rates than the national average, but only three are significantly lower.
+
+So does job availability impact population? Maybe. A worthwhile endeavor might be to look at specific place experiences economic booms and see what the population numbers are around them.
+
+## Details
+
+**Headline:** 
+Is it the economy, stupid?
+Unemployment rates and big population changes in US cities
+
+**Published website version:**
+
+**Code repository:** https://github.com/mattrehbein/data_studio/tree/master/code/01-city_pop_changes
+
+**Final data set(s):** [US Census](https://www.census.gov/data/datasets/2017/demo/popest/total-cities-and-towns.html#tables) and [US Dept of Agriculture](https://data.ers.usda.gov/reports.aspx?ID=17828).
+
+## What did you find to be the most difficult part of this project?
+Visualizing the data was the hardest part. Graphing what ended up being my final charts was relatively easy, as they're very simple graphs, but getting there was surprisingly hard; my original concepts of the best way to represent the data in graphic form didn't make much sense when I went to execute on it. For example, I originally intended to show both population and an economic indicator in one graph, but putting a number in the thousands (population) and a small number like unemployment couldn't be scaled the same.
+
+## Are you satisfied with what you produced? Is there anything you would like to change or improve?
+I'm fine with the final result. This was an idea I put together relatively quickly after being unable to find data on a different topic. And even though my final graphs are short and simple, I'm pretty please with how they look -- I'm sure that as my data-analysis skills grow, my infographics will become more complex, but at this stage producing clean graphics that clearly convey something is what I'm aiming for.
+
+## Checklist
+
+- [X ] I have included my visuals
+- [ ] I have posted my project to my project website (I PLAN TO DO THIS FOR A FUTURE PROJECT)
+- [X ] I have been updating my DIARY.md with details about my process
+- [X ] I have uploaded/updated any Jupyter Notebooks or other datasets into my code repository
