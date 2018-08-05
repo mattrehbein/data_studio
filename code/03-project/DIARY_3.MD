@@ -1,5 +1,12 @@
 CHICAGO GANGS
 
+link to the lawsuit against the city over the CPD db:
+http://www.macarthurjustice.org/uploads/rsmjc/documents/cpd_gang_database_class_action_complaint.pdf
+
+the report produced by Univ. of Illinois in Chicago about the database:
+http://erasethedatabase.com/wp-content/uploads/2018/02/Tracked-Targeted-0217.pdf
+
+
 Gaping racial disperity in Chicago police's gang database
 
 census data link
