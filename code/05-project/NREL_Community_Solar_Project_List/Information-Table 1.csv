@@ -1,0 +1,62 @@
+Community Solar Project List,,,,,,,,
+,,,,,,,,
+"This database represents a list of community solar projects identified through various sources as of Spring 2018. The list has been reviewed but errors may exist and the list may not be comprehensive. Errors in the souces (e.g., press releases) may be duplicated in the list. Blank spaces represent missing information. 
+
+NREL invites input to improve the database, including to: 
+- Correct erroneous information
+- Add missing projects
+- Fill in missing information
+- Remove inactive projects
+
+Updated information can be submitted to Eric O'Shaughnessy at eric.oshaughnessy@nrel.gov.",,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Variable descriptions,,,,,,,,
+Project Name,"Project name, if applicable",,,,,,,
+City,City where system is sited,,,,,,,
+State,State,,,,,,,
+Utility,Utility service territory,,,,,,,
+System Size (kW),"System capacity in kilowatts. Most project capacities should represent rated capacity in kilowatts DC, but errors may exist.",,,,,,,
+Year of Interconnection,Estimated year that project began serving customers.,,,,,,,
+Co-located Projects,"Some community solar arrays are co-located components of a larger project. If applicable, this field reflects  a single project name to link such co-located projects.",,,,,,,
+Ciy Lat,"Latitude of the city where the project is located (latitude does not represent the location of the project, but may be used as a rough approximation of project location for the purposes of geographic visuals)",,,,,,,
+City Long,"Longitude of the city where the project is located (latitude does not represent the location of the project, but may be used as a rough approximation of project location for the purposes of geographic visuals)",,,,,,,
+,,,,,,,,
+"Resources
+The project list was compiled from numerous sources. Information for many of the projects were gathered from the following resources:
+
+Clean Energy Collective. 2017. Community Solar Hub. 
+
+Clean Energy Resource Team. 2017. Clean Energy Project Builder. http://www.cleanenergyprojectbuilder.org/company/minnesota-community-solar. 
+
+Shwastyk, D., J. Sterling. 2015. Community Solar Program Design Models. SEPA.",,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Acknowledgments,,,,,,,,
+The community solar project list was compiled in collaboration with the Coalition for Community Solar Access. ,,,,,,,,

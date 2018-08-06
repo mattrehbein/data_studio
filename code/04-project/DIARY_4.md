@@ -1,4 +1,10 @@
 
+
+try to make these:
+https://matplotlib.org/gallery/pie_and_polar_charts/polar_bar.html#sphx-glr-gallery-pie-and-polar-charts-polar-bar-py.The
+
+
+
 At 33, LeBron James is 
 
 TO DO:
