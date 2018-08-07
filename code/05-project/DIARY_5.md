@@ -1,4 +1,16 @@
 
+good background reading
+https://www.vox.com/2015/7/29/9066685/coal-oil-solar-maps
+
+links that might be useful:
+SEIA press release about solar growth:
+https://www.seia.org/news/us-solar-market-adds-25-gw-pv-q1-2018-growing-13-year-over-year
+
+2012 NREL report on potential of renewables:
+https://openei.org/doe-opendata/dataset/5346c5c2-be26-4be7-9663-b5a98cbb7527/resource/01fe78a8-77b6-4c59-bc36-cae177ee86c3/download/usretechpotential.pdf
+
+
+
 
 How many community 'solar gardens' are there in the US?
 

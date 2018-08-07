@@ -1,22 +1,25 @@
 
 
+TO DO:
+-make the same graph i have but comparing a player to himself -- jordan pre-exit and after return.
+BE SURE to note in the text that I'm not including the 17 games Jordan played in at the end of the 1995 season.
+-REDO double graph bc mj bars are out of order -- assists should be middle
+- maybe add bars to each graph set for championships and all-star support?
+-explore line graphs, too. each player could be a line
+-
+
 try to make these:
 https://matplotlib.org/gallery/pie_and_polar_charts/polar_bar.html#sphx-glr-gallery-pie-and-polar-charts-polar-bar-py.The
 
 
+take into consideration the competition in the Western Conf vs the East?
+
 
 At 33, LeBron James is 
 
-TO DO:
 
-1. Scrape MJ
-2. make first graphs of lebron and mj comparison
-3. Write and post pitch
 4. determine five players to looks at: 1 MJ, 2 LeBron (to MIA or back to CLE), NEED 3, 4, 5
-5. Scrape remaining players
-6. **** Determine how each graph will look; how to compare the player's stats with their old team to those of their new team. Maybe just the side-by-side bar graph approach?
-7. add columns to each set for championships and all-star selections
-8. Datetime the year columns
+
 
 ****SHOULD ALSO CHECK TO MAKE SURE NUMBER OF MINUTES PLAYED DIDN'T DEC SUBSTANTIALLY WHEN COMPARING
 
