@@ -1,4 +1,18 @@
 
+
+11-classwork is the Foundations file with the first shape files and waffle house csv we used when learning QGIS
+
+TO DO:
+-map first map with points for each solar garden
+-find an inspirational map online
+-HOW TO EXPORT TO PNG OR SOMETHING USEABLE IN MARYANNE'S TEMPLATE WITH QGIS?
+-TRY TO MAP A HEX GRID MAP WITH HEAT FOR PLACES PRODUCING THE MOST SOLAR-GARDEN POWER
+
+WOULD BE NICE: use time manager qgis plug in to do a geogiffy showing the lights coming on as time goes on and solar gardens are made (watch the solar gardens grow)
+https://medium.com/@tjukanov/geogiffery-in-a-nutshell-introduction-to-qgis-time-manager-31bb79f2af19
+
+
+
 good background reading
 https://www.vox.com/2015/7/29/9066685/coal-oil-solar-maps
 

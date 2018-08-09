@@ -1,6 +1,23 @@
 
 
 TO DO:
+-start new notebook and see if you can make a pie on polar axis chart
+
+
+rem theta is the angle of a wedge of a circle, so I think that's where the df values have to go
+arc=s
+ø=theta
+r=radius
+
+s=rø
+
+polar chart links that I'm looking at/might be helpful:
+https://matplotlib.org/gallery/pie_and_polar_charts/polar_bar.html#sphx-glr-download-gallery-pie-and-polar-charts-polar-bar-py
+
+https://stackoverflow.com/questions/49709030/bar-plot-with-polar-axis
+
+
+
 -make the same graph i have but comparing a player to himself -- jordan pre-exit and after return.
 BE SURE to note in the text that I'm not including the 17 games Jordan played in at the end of the 1995 season.
 -REDO double graph bc mj bars are out of order -- assists should be middle
