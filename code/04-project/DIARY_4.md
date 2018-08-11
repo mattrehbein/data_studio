@@ -1,4 +1,14 @@
 
+kicker
+G.O.A.T.?
+
+Setting the bar for LeBron in L.A.
+
+Earlier this summer, at the age of 33, LeBron James announced that he had signed a four-year deal with the Los Angeles Lakers. The move ended months of speculation and confirmed that James -- the most dominant player of the current era -- was leaving his hometown of Cleveland for a second time.
+
+I thought it'd be interesting...
+
+During the title years of Jordan's reign at the Bulls -- both before and after his sojourn in baseball -- only Scottie Pippen joined Jordan as an all-star selection. Though we should note that Jordan returned to a Bulls team that had produced three all-stars during the season he spent in baseball: Pippen, B.J. Armstrong and Horace Grant.
 
 TO DO:
 -start new notebook and see if you can make a pie on polar axis chart
