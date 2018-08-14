@@ -2,7 +2,21 @@
 
 11-classwork is the Foundations file with the first shape files and waffle house csv we used when learning QGIS
 
+
+QGIS/map details:
+
+US map projection:
+NAD83 Conus Albers 
+
+colors:
+orange for dots: FF7F00
+gray for map: E5E5E5
+yellow highlight for MA, CO & MN: fff66a
+
+-WHEN adding csv to QGIS, x field is the longitude and y field is the latitude
+
 TO DO:
+-Get map into Ai and stylize -- color top three states
 -highlight the states with certain number of solar gardens in the map
 -TRY TO MAP A HEX GRID MAP WITH HEAT FOR PLACES PRODUCING THE MOST SOLAR-GARDEN POWER
 -RESEARCH CALIFORNIA TO SEE WHETHER THERE ARE NEW SOLAR GARDENS THERE TO ADD TO MY DF:
