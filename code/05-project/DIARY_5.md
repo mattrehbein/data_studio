@@ -1,9 +1,27 @@
 
+TO DO:
+-look at how data was collected again, just to be totally clear about it
+-TRY TO MAP A HEX GRID MAP WITH HEAT FOR PLACES PRODUCING THE MOST SOLAR-GARDEN POWER
+-RESEARCH CALIFORNIA TO SEE WHETHER THERE ARE NEW SOLAR GARDENS THERE TO ADD TO MY DF:
+https://news.energysage.com/community-solar-gardens-sharing-the-sun/
 
-11-classwork is the Foundations file with the first shape files and waffle house csv we used when learning QGIS
+-make city mapper of MA
+-make geogiffy of MA
+
+
+http://www.startribune.com/minnesota-s-solar-garden-program-takes-off-in-2017/464428133/
+
+-EXPLORE geogiffy or switching to Leaflet
+
+
+WOULD BE NICE: use time manager qgis plug in to do a geogiffy showing the lights coming on as time goes on and solar gardens are made (watch the solar gardens grow)
+https://medium.com/@tjukanov/geogiffery-in-a-nutshell-introduction-to-qgis-time-manager-31bb79f2af19
+
 
 
 QGIS/map details:
+
+11-classwork is the Foundations file with the first shape files and waffle house csv we used when learning QGIS
 
 US map projection:
 NAD83 Conus Albers 
@@ -15,27 +33,12 @@ yellow highlight for MA, CO & MN: fff66a
 
 -WHEN adding csv to QGIS, x field is the longitude and y field is the latitude
 
-TO DO:
--Get map into Ai and stylize -- color top three states
--highlight the states with certain number of solar gardens in the map
--TRY TO MAP A HEX GRID MAP WITH HEAT FOR PLACES PRODUCING THE MOST SOLAR-GARDEN POWER
--RESEARCH CALIFORNIA TO SEE WHETHER THERE ARE NEW SOLAR GARDENS THERE TO ADD TO MY DF:
-https://news.energysage.com/community-solar-gardens-sharing-the-sun/
-
-http://www.startribune.com/minnesota-s-solar-garden-program-takes-off-in-2017/464428133/
-
--EXPLORE geogiffy or switching to Leaflet
-
-
-WOULD BE NICE: use time manager qgis plug in to do a geogiffy showing the lights coming on as time goes on and solar gardens are made (watch the solar gardens grow)
-https://medium.com/@tjukanov/geogiffery-in-a-nutshell-introduction-to-qgis-time-manager-31bb79f2af19
 
 ****SOMA'S PAGE WITH HELPFUL REMINDERS ON HOW TO USE QGIS:
 https://gist.github.com/jsoma/0865246bd9223a6b86fe6876efb4c640
 
 WaPo inspiration:
 https://www.washingtonpost.com/graphics/national/power-plants/?utm_term=.0a9a89b4f867
-
 
 
 -HOW TO EXPORT TO PNG OR SOMETHING USEABLE IN MARYANNE'S TEMPLATE WITH QGIS:
