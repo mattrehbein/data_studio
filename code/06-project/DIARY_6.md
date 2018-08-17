@@ -18,6 +18,9 @@ would be be poss to figure out which of the MAP entries are from the DOJ and whi
 key for Murder Accountability Project dataset:
 file:///Users/matthewrehbein/Downloads/MAPdefinitionsSHR.pdf
 
+good reference: fbi press release on 2016 UCR:
+https://www.fbi.gov/news/pressrel/press-releases/fbi-releases-2015-crime-statistics
+
 wapo inspiration
 https://www.washingtonpost.com/graphics/2018/investigations/unsolved-homicide-database/?utm_term=.6e8bc17b2318&city=atlanta
 

@@ -1,12 +1,46 @@
 
+THE STORY NEEDS:
+-a comparison to roof-top solar -- try to find dataset on for proj 7
+-more on cali -- call their public utilities commission
+-call NREL contact about a rooftop numbers -- and to ask when the comm solar db was updated last, more detail on how that info is collected/ weigh reliability
+-how much electricity are these gardens making? graphs on this
+-research more on how many homes can be powered by. Finish this sentence: "The most powerful garden pumps out about 5,700 kilowatts, enough to power roughly XXX homes."
+-visit a garden -- there's nine, I think, in GA. Athens, Monroe
+-flesh out the Cali stuff, and link to the green tech media article if don't get someone on record myself
+
+
+<a href="https://www.greentechmedia.com/articles/read/a-rough-start-possible-reforms-for-californias-community-solar-program#gs.bOYl=6U">Greentech Media</a>
+
+DRAFT NOTES
+Solar Gardens: A Blooming Trade
+Solar Gardens: A Going -- and Growing -- Concern
+
+
+The authors of the NREL database stiplate that it may not be at all times comprehensive. At first glance 
+
 TO DO:
--look at how data was collected again, just to be totally clear about it
+-set up webpage folder/file infrastructure
+-create individual dataframes by year and save them each to csv so can make individual year maps for geogiffy
+
+FOR PART II OF THIS PROJECT:
 -TRY TO MAP A HEX GRID MAP WITH HEAT FOR PLACES PRODUCING THE MOST SOLAR-GARDEN POWER
 -RESEARCH CALIFORNIA TO SEE WHETHER THERE ARE NEW SOLAR GARDENS THERE TO ADD TO MY DF:
 https://news.energysage.com/community-solar-gardens-sharing-the-sun/
-
 -make city mapper of MA
 -make geogiffy of MA
+
+NREL page on community solar:
+https://www.nrel.gov/technical-assistance/community-solar.html
+
+on Cali: California Public Utilities Commission contact to ask whether there are any community solar projects up and running in the state:
+-For questions about the GTSR program, please contact Cherie Chan at cherie.chan@cpuc.ca.gov or (415) 703-1779.
+
+BEST EXPLAINER ON CALI'S PROGRESS ON SHARED SOLAR:
+https://www.greentechmedia.com/articles/read/a-rough-start-possible-reforms-for-californias-community-solar-program#gs.bOYl=6U
+
+
+this is NREL (i think) resource with map of states that have passed shared solar policy:
+http://www.sharedrenewables.org/
 
 
 http://www.startribune.com/minnesota-s-solar-garden-program-takes-off-in-2017/464428133/
@@ -31,6 +65,8 @@ orange for dots: FF7F00
 gray for map: E5E5E5
 yellow highlight for MA, CO & MN: fff66a
 
+FOR GEOGIFFY CONSISTENCY: graduated by Natural Breaks (Jenks); opacity at 50%; stroke hairline width with same orange color
+
 -WHEN adding csv to QGIS, x field is the longitude and y field is the latitude
 
 
@@ -41,13 +77,25 @@ WaPo inspiration:
 https://www.washingtonpost.com/graphics/national/power-plants/?utm_term=.0a9a89b4f867
 
 
+TO MAKE MY ANIMATED SOLAR MAP:
+1. Re-do csv files to have them include on year only
+2. Create a map with each year's dots as a diff layer and make them each a diff, clearly distinct color (also lighten the gray, per MA's rec)
+3. Export map as pdf from QGIS and open in Ai
+4. Zoom out from map, select the artboard, open the artboard palette (from 'Window' dropdown) and select 'duplicate artboard'. Create a duplicate for each year we need.
+5. Name each artboard after the year; make it same you want to name the png file that you'll eventually export.
+6. Select by color and delete dots from maps as needed to make chronological. (Can lock artboards that you don't want to change if needed).
+7. Make all the dots orange. 
+8. File --> Export --> Export as... (MA uses this as opp to 'for the web') --> In save window that pops up, select 'Use artboards' near the bottom; this will create a png file for each artboard.
+9. Google how to make an animated gif
+
+
 -HOW TO EXPORT TO PNG OR SOMETHING USEABLE IN MARYANNE'S TEMPLATE WITH QGIS:
 --> "New Print Layout" button (4th from the left on top of QGIS; it's in bet disk icon with green bit and the piece of paper with a wrench icon)
 	--> give it a title in first small pop up box and click OK
 		--> in big window that pops up, select area for the image by clicking the 'add a new map to the layout' button (it's a piece of paper with green +, 6th from the top); with tht selected, start at top left of 'artboard' like layout and drag to define area (I just did the whole thing or close to it); when you let go from the click and drag, the image you're trying to export should appear
 			--> can use select (hand at top left) to manipulate the image as needed (zoom, move around, etc)
 				--> from LAYOUT menu at the top dropdown, select 'Export as image'
-					--> give it a name, navigate to where you want it, make sure it's type you want (png) and click save
+					--> give it a name, navigate to where you want it, make sure it's type you want (png) and click save (ALL THIS WORKS SAME FOR PDF, WHICH IS REALLY WHAT YOU WANT SO CAN STYLE IN Ai)
 
 
 
