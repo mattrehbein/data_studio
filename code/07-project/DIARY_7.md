@@ -1,1 +1,4 @@
-DIARY_7.md
+solar 2.0
+
+https://openpv.nrel.gov/search
+
