@@ -1,5 +1,8 @@
 
+https://mattrehbein.github.io/SolarGardens/
+
 THE STORY NEEDS:
+-a kickass kicker
 -a comparison to roof-top solar -- try to find dataset on for proj 7
 -more on cali -- call their public utilities commission
 -call NREL contact about a rooftop numbers -- and to ask when the comm solar db was updated last, more detail on how that info is collected/ weigh reliability
@@ -8,6 +11,9 @@ THE STORY NEEDS:
 -visit a garden -- there's nine, I think, in GA. Athens, Monroe
 -flesh out the Cali stuff, and link to the green tech media article if don't get someone on record myself
 
+
+FOR THE TEXT LEADING INTO THE ANIMATED MAP:
+There were six solar gardens in the US in 2008. Here's how they grew over the next decade:
 
 <a href="https://www.greentechmedia.com/articles/read/a-rough-start-possible-reforms-for-californias-community-solar-program#gs.bOYl=6U">Greentech Media</a>
 
@@ -29,23 +35,41 @@ https://news.energysage.com/community-solar-gardens-sharing-the-sun/
 -make city mapper of MA
 -make geogiffy of MA
 
+
+**RESEARCH**
 NREL page on community solar:
 https://www.nrel.gov/technical-assistance/community-solar.html
 
 on Cali: California Public Utilities Commission contact to ask whether there are any community solar projects up and running in the state:
 -For questions about the GTSR program, please contact Cherie Chan at cherie.chan@cpuc.ca.gov or (415) 703-1779.
 
+California Public Utilities Commission gov page on renewables program:
+http://www.cpuc.ca.gov/General.aspx?id=12181
+
+PGE page on developing community solar projects/developers
+https://www.pge.com/en_US/for-our-business-partners/energy-supply/electric-rfo/wholesale-electric-power-procurement/regional-solar-choice-program.page
+
 BEST EXPLAINER ON CALI'S PROGRESS ON SHARED SOLAR:
 https://www.greentechmedia.com/articles/read/a-rough-start-possible-reforms-for-californias-community-solar-program#gs.bOYl=6U
 
 
+NREL 8-page PDF on community solar:
+https://www.nrel.gov/docs/fy14osti/62367.pdf
+
 this is NREL (i think) resource with map of states that have passed shared solar policy:
 http://www.sharedrenewables.org/
 
-
+Minnesota community solar local report
 http://www.startribune.com/minnesota-s-solar-garden-program-takes-off-in-2017/464428133/
 
--EXPLORE geogiffy or switching to Leaflet
+How to install solar panels:
+https://us.sunpower.com/blog/how-many-solar-panels-do-you-need-panel-size-and-output-factors/
+
+NREL solar pv technology basics:
+https://www.nrel.gov/workingwithus/re-photovoltaics.html
+
+NREL community solar basic explainer page:
+https://www.nrel.gov/technical-assistance/community-solar.html
 
 
 WOULD BE NICE: use time manager qgis plug in to do a geogiffy showing the lights coming on as time goes on and solar gardens are made (watch the solar gardens grow)
@@ -62,7 +86,7 @@ NAD83 Conus Albers
 
 colors:
 orange for dots: FF7F00
-gray for map: E5E5E5
+gray for map: E5E5E5; lighter one, per Maryanne rec: #f0f0f0
 yellow highlight for MA, CO & MN: fff66a
 
 FOR GEOGIFFY CONSISTENCY: graduated by Natural Breaks (Jenks); opacity at 50%; stroke hairline width with same orange color
@@ -75,6 +99,18 @@ https://gist.github.com/jsoma/0865246bd9223a6b86fe6876efb4c640
 
 WaPo inspiration:
 https://www.washingtonpost.com/graphics/national/power-plants/?utm_term=.0a9a89b4f867
+
+2000, 2006, 2007, 2008: FF7F00 (my solar orange)
+2009: blue #1f78b4
+2010: 
+2011:
+2012:
+2013:
+2014:
+2015:
+2016:
+2017:
+2018:
 
 
 TO MAKE MY ANIMATED SOLAR MAP:
